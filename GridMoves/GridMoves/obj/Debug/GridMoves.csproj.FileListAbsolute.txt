@@ -1,0 +1,6 @@
+C:\Users\AAENSE\source\repos\Anna\GridMoves\GridMoves\bin\Debug\GridMoves.exe.config
+C:\Users\AAENSE\source\repos\Anna\GridMoves\GridMoves\obj\Debug\GridMoves.csprojResolveAssemblyReference.cache
+C:\Users\AAENSE\source\repos\Anna\GridMoves\GridMoves\bin\Debug\GridMoves.exe
+C:\Users\AAENSE\source\repos\Anna\GridMoves\GridMoves\bin\Debug\GridMoves.pdb
+C:\Users\AAENSE\source\repos\Anna\GridMoves\GridMoves\obj\Debug\GridMoves.exe
+C:\Users\AAENSE\source\repos\Anna\GridMoves\GridMoves\obj\Debug\GridMoves.pdb
